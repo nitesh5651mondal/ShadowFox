@@ -22,7 +22,7 @@ pip install -r requirements.txt
 python train_model.py
 
 ### Step 3: Run Streamlit app
-streamlit run app.py
+python -m streamlit run app.py
 
 ## 📊 Features
 - Interactive UI using Streamlit
@@ -30,7 +30,7 @@ streamlit run app.py
 - Clean and simple interface
 
 ## 📁 Project Structure
-(mention structure)
+ShadowFox\Car-Price-Prediction
 
 ## 👨‍💻 Author
-Your Name
+Nitesh Mondal
